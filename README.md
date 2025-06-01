@@ -34,3 +34,6 @@
 ## DecoDrop
 ![](images/1711577086_decodrop-2.jpg)
 ***
+## Модифікація Simple Arsenal
+![](images/1742498647_simple-arsenal-1.jpg)
+***
