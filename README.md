@@ -26,5 +26,7 @@
 > *Atlas Client підтримує крайню версію Minecraft Bedrock Edition 1.21.72*.
 > <br>
 ***
+| ![](images/Screenshot_20250524_185437_AIDA64.jpg) |
+|---|
 
 
