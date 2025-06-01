@@ -28,5 +28,4 @@
 ***
 | ![](images/Screenshot_20250524_185437_AIDA64.jpg) |
 |---|
-
-
+| ![](images/Screenshot_20250524_185456_AIDA64.jpg) |
