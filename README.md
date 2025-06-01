@@ -20,5 +20,11 @@
 | ![](images/Screenshot_20250601_131810_Atlas%20Client.jpg) |
 | ![](images/Screenshot_20250601_131837_Atlas%20Client.jpg) |
 ***
+> [!Warning]
+> **Не оновлювайте Minecraft Bedrock Edition**.
+> <br><br>
+> *Atlas Client підтримує крайню версію Minecraft Bedrock Edition 1.21.72*.
+> <br>
+***
 
 
