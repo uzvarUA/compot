@@ -14,5 +14,7 @@
 > <br><br>
 ***
 # Atlas Client
-![](images/Screenshot_20250601_131602_Atlas%20Client.jpg)
+| ![](images/Screenshot_20250601_131602_Atlas%20Client.jpg) |
+|---|
+| ![](images/Screenshot_20250601_131710_Atlas%20Client.jpg) |
 
