@@ -37,3 +37,19 @@
 ## Модифікація Simple Arsenal
 ![](images/1742498647_simple-arsenal-1.jpg)
 ***
+## Завантажити
+| Ціна | Крайня версія Minecraft: Bedrock Edition | arm64-v8a | Xbox Live | Atlas Client |
+|---|---|---|---|---|
+| Безкоштовно | 1.21.72 | Є  | Є | [Завантажити](https://github.com/uzvarUA/compot/releases/download/files/forestryNPCnumber42_beta.1.zip) |
+***
+> [!Note]
+> `apk/minecraft-1-21-71-01-arm64-v8a-xbox-servers.apk`
+> <br>
+> `apk/minecraft-1-21-72-01-arm64-v8a-xbox-servers_sign.apk`
+> <br><br>
+> `apk/minecraft-1-21-72-01-arm64-v8a-xbox-servers.apk`
+> `apk/atlas-1.5.3.apk` (Крайня версія Minecraft: Bedrock Edition) 1.21.51
+> <br><br>
+> `apk/atlas-1.6.1.apk` (Крайня Версія Minecraft: Bedrock Edition 1.21.72)
+> <br>
+***
