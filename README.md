@@ -51,5 +51,6 @@
 > `apk/atlas-1.5.3.apk` (Крайня версія Minecraft: Bedrock Edition) 1.21.51
 > <br><br>
 > `apk/atlas-1.6.1.apk` (Крайня Версія Minecraft: Bedrock Edition 1.21.72)
-> <br>
+> <br><br>
+> `forestryNPCnumber42_beta.1.mcaddon` (Збірка модів і карт)
 ***
